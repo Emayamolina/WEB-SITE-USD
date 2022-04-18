@@ -1,6 +1,6 @@
 # WEB-SITE-USD
 
-Website developed for the fisíca 3 project.
+Website developed for the physical 3 project.
 
 OBJETIVOS
 Objetivo general: 
